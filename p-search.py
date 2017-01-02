@@ -2,7 +2,7 @@ import logging
 import time
 import _psearch
 
-if __name__='__main__':
+if __name__=='__main__':
 
     PSEARCH_VERSION = '1.0'
 
