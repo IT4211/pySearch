@@ -1,6 +1,6 @@
 import logging
 import time
-import _psearch
+from _p-search import *
 
 if __name__=='__main__':
 
